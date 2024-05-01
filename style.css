@@ -1,0 +1,28 @@
+/* styles.css */
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(244, 172, 100);
+    color: darkslategray;
+}
+
+.center,
+.title {
+    text-align: center;  
+}
+.title {
+    font-weight: bold;
+
+}
+
+.mainimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+ul {
+    list-style: none;
+}
